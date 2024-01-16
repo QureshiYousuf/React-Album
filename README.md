@@ -1,14 +1,26 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+# Getting Started with Create React Album App
+>>>>>>> e71715414cea11b1e1ba2a10e8c29effdc25aa1c
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
+<<<<<<< HEAD
 # ReactJS-DropDown
 
  <h1 align="center"> React - API-Album 📝</h1> 
 <p align="center">
  🖊️ Just a basic dropdown webapp using ReactJS<br>
+=======
+# React-Album
+
+ <h1 align="center"> React - API-Album 📝</h1> 
+<p align="center">
+ 🖊️ Just a basic demonstration of fetching API Album using ReactJS<br>
+>>>>>>> e71715414cea11b1e1ba2a10e8c29effdc25aa1c
 </p>
 
 ## Setup
@@ -18,7 +30,11 @@ Clone the repo and install the dependencies.
 - Clone the repository:
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/QureshiYousuf/React-Dropdown.git
+=======
+git clone https://github.com/QureshiYousuf/React-Album.git
+>>>>>>> e71715414cea11b1e1ba2a10e8c29effdc25aa1c
 ```
 
 ```bash
