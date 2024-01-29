@@ -9,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  🖊️ Just a basic demonstration of fetching API Album using ReactJS<br>
 </p>
 
+Hosted Link - [React-Album] https://react-albums-yq.netlify.app
+
 ## Available Scripts
 
 ## Setup
