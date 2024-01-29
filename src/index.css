@@ -70,8 +70,6 @@ button {
 /* List component style */
 .list {
   width: 310px;
-  height: 200px;
-  height: 250px;
   background-color: transparent;
   border: 2px solid #478ac9;
   border-radius: 10px;
