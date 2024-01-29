@@ -71,6 +71,7 @@ button {
 .list {
   width: 310px;
   height: 200px;
+  height: 250px;
   background-color: transparent;
   border: 2px solid #478ac9;
   border-radius: 10px;
@@ -86,12 +87,28 @@ button {
   text-transform: capitalize;
   margin-top: 7%;
 }
+
+.list img {
+  width: 50%;
+  height: 50%;
+  margin: 0px auto;
+}
+
+.list h3 {
+  text-align: center;
+  text-transform: capitalize;
+  margin: 5% auto;
+}
 .button-group {
   width: 100%;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 .update-btn {
   background-color: #478ac9;
@@ -113,6 +130,8 @@ button {
   border-radius: 8px;
   padding: 6px 15px;
   cursor: pointer;
+
+  background-color: #fff;
 }
 .delete-btn:hover {
   color: #f2f2f2;
