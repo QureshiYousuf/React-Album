@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Routes, Route } from "react-router-dom";
 import AddAlbum from "./AddAlbum";
 import AlbumsList from "./AlbumsList";
-
 import UpdateAlbum from "./UpdateAlbum";
 
 export default class App extends Component {
